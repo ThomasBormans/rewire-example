@@ -1,2 +1,2 @@
 # rewire-example
-Simple Node.js app with rewire implementation
+Example with rewire to test non exported methods in Node.js
